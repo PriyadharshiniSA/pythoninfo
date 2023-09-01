@@ -1,0 +1,13 @@
+name="Priyadharshini.s"
+address="Dharmapuri"
+course="Computer Science"
+parents="Mr.Subramani&Mrs.Anandhi"
+email_id="priyanandhi987@gmail.com"
+bloodgroup="A+ve"
+mark1=90
+mark2=80
+mark3=95
+mark4=85
+totalmark=mark1+mark2+mark3+mark4
+average=totalmark/4
+print("Hi!......","\n\t\tI am",name,"\n\t\tfrom:",address,"\n\t\tDepartment:",course,"\n\t\tMy parents:",parents,"\n\t\tEmail_id:",email_id,"\n\t\tBloodgroup:",bloodgroup,"\n\t\t.Net mark is:",mark1,"\n\t\tPhp mark is:",mark2,"\n\t\tsoft skill mark is:",mark3,"\n\t\tClient server mark is:",mark4,"\n\t\tTotal mark is:",totalmark,"\n\t\tAverage mark is:",average,"\n\n\n\t\t\t\t\t***THANK YOU***")
